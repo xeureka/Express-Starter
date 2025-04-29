@@ -1,1 +1,4 @@
-Express Starter
+
+
+
+express-mongo starter kit with basic folder structure
